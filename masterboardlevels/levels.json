@@ -1,0 +1,65 @@
+{
+  "projectName": "MasterboardLevels",
+  "images": [
+    {
+      "fileName": "1.png",
+      "components": [
+        { "label": "Ranura AGP", "x": 31.4, "y": 31.6, "width": 4.0, "height": 41.6 },
+        { "label": "Conector FDD", "x": 59.5, "y": 93.1, "width": 20.0, "height": 4.4 },
+        { "label": "Puente Norte", "x": 41.3, "y": 43.1, "width": 15.4, "height": 16.1 },
+        { "label": "Conector Alimentación 12 V", "x": 84.9, "y": 17.9, "width": 3.8, "height": 5.2 },
+        { "label": "BIOS", "x": 8.7, "y": 62.5, "width": 6.8, "height": 6.4 },
+        { "label": "Ranuras de Memoria", "x": 32.1, "y": 74.1, "width": 63.9, "height": 8.8 },
+        { "label": "Puente Sur", "x": 13.1, "y": 75.8, "width": 11.6, "height": 13.1 },
+        { "label": "Pines del Panel Frontal", "x": 2.5, "y": 82.7, "width": 2.7, "height": 6.4 },
+        { "label": "Conectores Disco IDE", "x": 34.9, "y": 87.4, "width": 23.7, "height": 10.2 },
+        { "label": "Ranura CNR", "x": 1.5, "y": 19.4, "width": 4.3, "height": 20.2 },
+        { "label": "Ranuras PCI", "x": 6.8, "y": 21.3, "width": 21.1, "height": 37.5 },
+        { "label": "Pila", "x": 25.9, "y": 85.8, "width": 8.5, "height": 10.4 },
+        { "label": "Conector CPU FAN", "x": 81.1, "y": 64.2, "width": 4.2, "height": 3.4 },
+        { "label": "Conector Alimentación 20 pines", "x": 60.4, "y": 86.2, "width": 18.3, "height": 5.6 },
+        { "label": "Microprocesador", "x": 69.5, "y": 39.6, "width": 17.3, "height": 17.0 }
+      ]
+    },
+    {
+      "fileName": "2.png",
+      "components": [
+        { "label": "BIOS", "x": 17.6, "y": 83.2, "width": 5.6, "height": 6.7 },
+        { "label": "Conexión USB frontales", "x": 47.9, "y": 94.8, "width": 14.0, "height": 4.0 },
+        { "label": "Socket LGA", "x": 34.1, "y": 25.0, "width": 27.6, "height": 31.0 },
+        { "label": "4 Conectores Disco", "x": 90.9, "y": 55.4, "width": 7.1, "height": 13.9 },
+        { "label": "Ranuras DIMM", "x": 71.5, "y": 6.9, "width": 16.4, "height": 64.5 },
+        { "label": "Conexión Power Switch", "x": 83.4, "y": 95.3, "width": 12.6, "height": 2.5 },
+        { "label": "Conexión Tarjeta Gráfica", "x": 26.6, "y": 70.3, "width": 44.2, "height": 4.0 },
+        { "label": "Chipset", "x": 65.7, "y": 74.9, "width": 16.7, "height": 16.1 },
+        { "label": "Conector Ventilación Sistema", "x": 29.1, "y": 65.4, "width": 5.9, "height": 2.9 },
+        { "label": "Pines para resetear BIOS", "x": 79.5, "y": 96.3, "width": 3.4, "height": 2.1 },
+        { "label": "Conector Ventilación Microprocesador", "x": 42.9, "y": 6.8, "width": 6.2, "height": 3.7 },
+        { "label": "Conexión Jack Audio Frontal", "x": 13.4, "y": 95.1, "width": 6.8, "height": 3.3 },
+        { "label": "ATX 24 pines", "x": 92.3, "y": 8.6, "width": 5.9, "height": 22.0 },
+        { "label": "Conexión Tarjeta Red", "x": 26.0, "y": 79.1, "width": 13.4, "height": 12.2 },
+        { "label": "ATX 12 V", "x": 19.9, "y": 9.6, "width": 5.3, "height": 8.7 }
+      ]
+    },
+    {
+      "fileName": "3.png",
+      "components": [
+        { "label": "ATX 12 V", "x": 93.9, "y": 28.7, "width": 2.7, "height": 11.5 },
+        { "label": "PCH", "x": 16.4, "y": 24.9, "width": 20.5, "height": 55.7 },
+        { "label": "DDR5", "x": 45.5, "y": 68.3, "width": 45.4, "height": 10.7 },
+        { "label": "F_AUDIO", "x": 1.9, "y": 23.2, "width": 3.5, "height": 5.2 },
+        { "label": "LGA", "x": 56.7, "y": 45.5, "width": 22.5, "height": 16.2 },
+        { "label": "CPU_FAN", "x": 93.6, "y": 70.2, "width": 2.2, "height": 3.4 },
+        { "label": "VRM Frontal", "x": 49.0, "y": 15.5, "width": 43.7, "height": 24.5 },
+        { "label": "F_PANEL", "x": 2.0, "y": 78.7, "width": 3.0, "height": 8.8 },
+        { "label": "SATA", "x": 10.7, "y": 85.1, "width": 15.4, "height": 4.8 },
+        { "label": "M.2", "x": 42.0, "y": 25.2, "width": 6.7, "height": 36.1 },
+        { "label": "PCI-e x16", "x": 37.8, "y": 27.1, "width": 3.4, "height": 33.4 },
+        { "label": "BIOS", "x": 9.4, "y": 64.4, "width": 2.9, "height": 3.6 },
+        { "label": "PCI-e x4", "x": 6.3, "y": 26.9, "width": 8.9, "height": 32.5 },
+        { "label": "F_USB 3.2", "x": 49.0, "y": 85.0, "width": 7.4, "height": 2.9 },
+        { "label": "VRM Lateral", "x": 81.7, "y": 40.8, "width": 12.0, "height": 26.2 }
+      ]
+    }
+  ]
+}

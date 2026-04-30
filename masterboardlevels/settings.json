@@ -1,0 +1,10 @@
+{
+  "initialLives": 3,
+  "pointsPerHit": 10,
+  "perfectLevelBonus": 20,
+  "combos": [
+    { "count": 5, "bonus": 5 },
+    { "count": 10, "bonus": 10 },
+    { "count": 15, "bonus": 15 }
+  ]
+}

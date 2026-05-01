@@ -2,7 +2,7 @@
 
 ## 📌 Descripción
 
-Este proyecto consiste en un **juego de identificación de componentes en placas base** 
+Este proyecto consiste en un **videojuego de identificación de componentes en placas base** 
 diseñado para fines educativos. 
 
 ---
